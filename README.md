@@ -11,7 +11,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. The 
 1. Clone the repository: `git clone https://github.com/Priyapal-27/Portfolio.git`
 2. Open the `index.html` file in your web browser.
 
-Alternatively, you can view the live version of the website at (https://priyapal-27.github.io/portfolio/).
+Alternatively, you can view the live version of the website at (https://Priyapal-27.github.io/Portfolio/).
 
 ## Usage
 
